@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\",
+  "WorkspaceRootPath": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\calculutor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|solutionrelative:calculutor\\calculutor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|solutionrelative:calculutor\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|solutionrelative:calculutor\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\calculutor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BC7426E-1E5A-4FCE-AF87-1725E05DF422}|calculutor\\calculutor.vcxproj|solutionrelative:calculutor\\calculutor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,24 +34,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.cpp",
-              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.cpp",
+              "DocumentMoniker": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.cpp",
               "RelativeDocumentMoniker": "calculutor\\Calculator.cpp",
-              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.cpp",
+              "ToolTip": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.cpp",
               "RelativeToolTip": "calculutor\\Calculator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-11T15:52:07.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculator.h",
-              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.h",
+              "DocumentMoniker": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.h",
               "RelativeDocumentMoniker": "calculutor\\Calculator.h",
-              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\Calculator.h",
+              "ToolTip": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\Calculator.h",
               "RelativeToolTip": "calculutor\\Calculator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -60,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "calculutor.cpp",
-              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\calculutor.cpp",
+              "DocumentMoniker": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\calculutor.cpp",
               "RelativeDocumentMoniker": "calculutor\\calculutor.cpp",
-              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab9\\calculutor\\calculutor\\calculutor.cpp",
+              "ToolTip": "D:\\projects\\GitHub\\pickles\\calculutor\\calculutor\\calculutor\\calculutor.cpp",
               "RelativeToolTip": "calculutor\\calculutor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
