@@ -9,7 +9,14 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.VC.db
+*.VC.opendb
 # Used by dotenv library to load environment variables.
 # .env
 
